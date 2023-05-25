@@ -1,0 +1,25 @@
+iframe{
+    width: 100%;
+    height: 600px;
+}
+
+img{
+    height: 100px; 
+    width: 120px;
+    display: inline;
+    text-align:center;
+}
+
+h1{
+    text-align: center;
+    color: #de1e89;
+    border: #181814;
+    display: inline;
+    text-align: center;
+}
+body{
+    background-color: #9598fe;
+}
+div{
+    text-align: center;
+}
